@@ -1,18 +1,18 @@
 {
   "name": "git-test",
   "version": "1.0.0",
-  "description": "This is a test directory to learn GIT",
+  "description": "This is a test directory to learn Git and Node",
   "main": "index.html",
   "scripts": {
-      "start": "npm run lite",
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "lite": "lite-server"
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"    
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kdkartik08/git-test.git"
   },
-  "author": "KD KARTIK",
+  "author": "Kartik Dwivedi",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/kdkartik08/git-test/issues"
